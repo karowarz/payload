@@ -6,6 +6,7 @@
 .footer {
   max-width: var(--max-width-s);
   padding: 0 var(--baseline);
+  margin: 0;
 }
 
 .header,
